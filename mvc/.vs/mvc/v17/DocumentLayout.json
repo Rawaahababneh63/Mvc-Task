@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orangee\\source\\repos\\mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|c:\\users\\orangee\\source\\repos\\mvc\\mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|solutionrelative:mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|c:\\users\\orangee\\source\\repos\\mvc\\mvc\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|solutionrelative:mvc\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|c:\\users\\orangee\\source\\repos\\mvc\\mvc\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|solutionrelative:mvc\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|c:\\users\\orangee\\source\\repos\\mvc\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|c:\\users\\orangee\\source\\repos\\mvc\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|c:\\users\\orangee\\source\\repos\\mvc\\mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|solutionrelative:mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|c:\\users\\orangee\\source\\repos\\mvc\\mvc\\views\\home\\sell.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|solutionrelative:mvc\\views\\home\\sell.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|c:\\users\\orangee\\source\\repos\\mvc\\mvc\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|solutionrelative:mvc\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|c:\\users\\orangee\\source\\repos\\mvc\\mvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3002B0-987D-40EE-961C-8B123DDCFC30}|mvc\\mvc.csproj|solutionrelative:mvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Home\\Display.cshtml",
+              "RelativeDocumentMoniker": "mvc\\Views\\Home\\Display.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Home\\Display.cshtml",
+              "RelativeToolTip": "mvc\\Views\\Home\\Display.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T19:36:50.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "mvc\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "mvc\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:50:52.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sell.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Home\\Sell.cshtml",
+              "RelativeDocumentMoniker": "mvc\\Views\\Home\\Sell.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Home\\Sell.cshtml",
+              "RelativeToolTip": "mvc\\Views\\Home\\Sell.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:28:51.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "mvc\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "mvc\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:28:14.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "mvc\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "mvc\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:13:49.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Home\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "mvc\\Views\\Home\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Home\\HomePage.cshtml",
+              "RelativeToolTip": "mvc\\Views\\Home\\HomePage.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:11:05.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAqwE8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:04:12.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "mvc\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Views\\Home\\About.cshtml*",
+              "RelativeToolTip": "mvc\\Views\\Home\\About.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:13:36.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\mvc\\mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:03:51.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
