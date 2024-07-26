@@ -19,8 +19,14 @@ namespace mvc.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Contact(FormCollection form)
         {
+            ViewBag.Email = form["Email"];
+            ViewBag.Age = form["age"];
+            ViewBag.Gender = form["gender"];
+            ViewBag.Courses = form["Courses"];
+            ViewBag.Qualification = form["Select"];
+          
             return View();
         }
 
