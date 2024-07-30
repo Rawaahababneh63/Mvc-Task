@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354FFE-4675-4084-A465-5AF1A57DEA49}|Task4-mvc\\Task4-mvc.csproj|c:\\users\\orangee\\desktop\\task-mvc\\mvc-task\\task4-mvc\\task4-mvc\\controllers\\storeuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7354FFE-4675-4084-A465-5AF1A57DEA49}|Task4-mvc\\Task4-mvc.csproj|solutionrelative:task4-mvc\\controllers\\storeuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354FFE-4675-4084-A465-5AF1A57DEA49}|Task4-mvc\\Task4-mvc.csproj|c:\\users\\orangee\\desktop\\task-mvc\\mvc-task\\task4-mvc\\task4-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7354FFE-4675-4084-A465-5AF1A57DEA49}|Task4-mvc\\Task4-mvc.csproj|solutionrelative:task4-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354FFE-4675-4084-A465-5AF1A57DEA49}|Task4-mvc\\Task4-mvc.csproj|c:\\users\\orangee\\desktop\\task-mvc\\mvc-task\\task4-mvc\\task4-mvc\\views\\storeusers\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7354FFE-4675-4084-A465-5AF1A57DEA49}|Task4-mvc\\Task4-mvc.csproj|solutionrelative:task4-mvc\\views\\storeusers\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354FFE-4675-4084-A465-5AF1A57DEA49}|Task4-mvc\\Task4-mvc.csproj|c:\\users\\orangee\\desktop\\task-mvc\\mvc-task\\task4-mvc\\task4-mvc\\views\\storeusers\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7354FFE-4675-4084-A465-5AF1A57DEA49}|Task4-mvc\\Task4-mvc.csproj|solutionrelative:task4-mvc\\views\\storeusers\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354FFE-4675-4084-A465-5AF1A57DEA49}|Task4-mvc\\Task4-mvc.csproj|c:\\users\\orangee\\desktop\\task-mvc\\mvc-task\\task4-mvc\\task4-mvc\\views\\storeusers\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7354FFE-4675-4084-A465-5AF1A57DEA49}|Task4-mvc\\Task4-mvc.csproj|solutionrelative:task4-mvc\\views\\storeusers\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354FFE-4675-4084-A465-5AF1A57DEA49}|Task4-mvc\\Task4-mvc.csproj|c:\\users\\orangee\\desktop\\task-mvc\\mvc-task\\task4-mvc\\task4-mvc\\views\\storeusers\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7354FFE-4675-4084-A465-5AF1A57DEA49}|Task4-mvc\\Task4-mvc.csproj|solutionrelative:task4-mvc\\views\\storeusers\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "resetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\Task4-mvc\\Views\\StoreUsers\\resetPassword.cshtml",
+              "RelativeDocumentMoniker": "Task4-mvc\\Views\\StoreUsers\\resetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\Task4-mvc\\Views\\StoreUsers\\resetPassword.cshtml",
+              "RelativeToolTip": "Task4-mvc\\Views\\StoreUsers\\resetPassword.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T08:40:35.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\Task4-mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task4-mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\Task4-mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task4-mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T08:38:57.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\Task4-mvc\\Views\\StoreUsers\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Task4-mvc\\Views\\StoreUsers\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\Task4-mvc\\Views\\StoreUsers\\Profile.cshtml",
+              "RelativeToolTip": "Task4-mvc\\Views\\StoreUsers\\Profile.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowDUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T07:14:23.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\Task4-mvc\\Views\\StoreUsers\\Login.cshtml",
+              "RelativeDocumentMoniker": "Task4-mvc\\Views\\StoreUsers\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\Task4-mvc\\Views\\StoreUsers\\Login.cshtml",
+              "RelativeToolTip": "Task4-mvc\\Views\\StoreUsers\\Login.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T06:53:55.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\Task4-mvc\\Views\\StoreUsers\\Register.cshtml",
+              "RelativeDocumentMoniker": "Task4-mvc\\Views\\StoreUsers\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\Task4-mvc\\Views\\StoreUsers\\Register.cshtml",
+              "RelativeToolTip": "Task4-mvc\\Views\\StoreUsers\\Register.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACYAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T06:37:06.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\Task4-mvc\\Controllers\\StoreUsersController.cs",
+              "RelativeDocumentMoniker": "Task4-mvc\\Controllers\\StoreUsersController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\Task4-mvc\\Task4-mvc\\Controllers\\StoreUsersController.cs",
+              "RelativeToolTip": "Task4-mvc\\Controllers\\StoreUsersController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAkwJcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:36:11.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

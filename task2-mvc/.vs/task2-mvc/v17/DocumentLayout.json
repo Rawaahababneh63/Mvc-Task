@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orangee\\source\\repos\\task2-mvc\\",
+  "WorkspaceRootPath": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|c:\\users\\orangee\\source\\repos\\task2-mvc\\task2-mvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|c:\\users\\orangee\\desktop\\task-mvc\\mvc-task\\task2-mvc\\task2-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|c:\\users\\orangee\\source\\repos\\task2-mvc\\task2-mvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|c:\\users\\orangee\\source\\repos\\task2-mvc\\task2-mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|c:\\users\\orangee\\source\\repos\\task2-mvc\\task2-mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|c:\\users\\orangee\\desktop\\task-mvc\\mvc-task\\task2-mvc\\task2-mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|c:\\users\\orangee\\source\\repos\\task2-mvc\\task2-mvc\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Views\\Users\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\Views\\Users\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Models\\Model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\Models\\Model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,75 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\task2-mvc\\task2-mvc\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "task2-mvc\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\task2-mvc\\task2-mvc\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "task2-mvc\\Views\\Users\\Index.cshtml",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "task2-mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "task2-mvc\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T07:17:45.942Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:56:24.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\task2-mvc\\task2-mvc\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "task2-mvc\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\task2-mvc\\task2-mvc\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "task2-mvc\\Views\\Products\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "task2-mvc\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "task2-mvc\\Views\\Users\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T07:16:48.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T07:17:45.942Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\task2-mvc\\task2-mvc\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "task2-mvc\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\task2-mvc\\task2-mvc\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "task2-mvc\\Controllers\\UsersController.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "task2-mvc\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "task2-mvc\\Views\\Products\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T07:16:48.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "task2-mvc\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "task2-mvc\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T07:16:39.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\task2-mvc\\task2-mvc\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "task2-mvc\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\task2-mvc\\task2-mvc\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "task2-mvc\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T07:16:03.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T07:16:03.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Orangee\\source\\repos\\task2-mvc\\task2-mvc\\Models\\Model1.edmx",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Models\\Model1.edmx",
               "RelativeDocumentMoniker": "task2-mvc\\Models\\Model1.edmx",
-              "ToolTip": "C:\\Users\\Orangee\\source\\repos\\task2-mvc\\task2-mvc\\Models\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "task2-mvc\\Models\\Model1.edmx [Diagram1]",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Models\\Model1.edmx",
+              "RelativeToolTip": "task2-mvc\\Models\\Model1.edmx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-07-26T07:12:51.05Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-07-26T07:12:51.05Z"
             }
           ]
         }
