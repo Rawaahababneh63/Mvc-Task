@@ -1,0 +1,67 @@
+﻿@model MiniSchool.Models.Student
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="container mt-4">
+    <h2>Student Details</h2>
+
+    <div>
+        <h4>Student Information</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Class.ClassName)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Class.ClassName)
+            </dd>
+
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.FullName)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.FullName)
+            </dd>
+
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Age)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Age)
+            </dd>
+
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+        </dl>
+    </div>
+
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, new { @class = "btn btn-warning" }) |
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+    </p>
+</div>
+
+<style>
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    h2 {
+        margin-bottom: 20px;
+    }
+
+    dl.row dt {
+        font-weight: bold;
+    }
+
+    .btn {
+        margin: 5px 0;
+    }
+</style>

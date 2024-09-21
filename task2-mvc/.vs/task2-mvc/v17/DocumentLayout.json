@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|c:\\users\\orangee\\desktop\\task-mvc\\mvc-task\\task2-mvc\\task2-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|c:\\users\\orangee\\desktop\\task-mvc\\mvc-task\\task2-mvc\\task2-mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Views\\Users\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|solutionrelative:task2-mvc\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59C5857-1BC2-48AE-B16B-2DA2989151EC}|task2-mvc\\task2-mvc.csproj|C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Models\\Model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "task2-mvc\\Controllers\\HomeController.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "task2-mvc\\Views\\Users\\Index.cshtml",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "task2-mvc\\Views\\Products\\Index.cshtml",
@@ -75,20 +75,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "task2-mvc\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\UsersController.cs",
               "RelativeToolTip": "task2-mvc\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwD8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T07:16:39.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Task-mvc\\Mvc-Task\\task2-mvc\\task2-mvc\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "task2-mvc\\Controllers\\ProductsController.cs",
@@ -96,7 +96,8 @@
               "RelativeToolTip": "task2-mvc\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T07:16:03.331Z"
+              "WhenOpened": "2024-07-26T07:16:03.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

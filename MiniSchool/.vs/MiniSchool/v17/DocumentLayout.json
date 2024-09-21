@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|c:\\users\\orangee\\desktop\\mvcexplain\\task-mvc\\mvc-task\\minischool\\minischool\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\views\\minishcool\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\minishcool\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\content\\bootstrap.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\content\\bootstrap.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\views\\assignments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\assignments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\migrations\\202409191334532_usertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\migrations\\202409191334532_usertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\migrations\\202409191338486_seeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\migrations\\202409191338486_seeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\migrations\\202409191335438_usertable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\migrations\\202409191335438_usertable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\migrations\\202409191327173_minischool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\migrations\\202409191327173_minischool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\migrations\\202409191324216_mini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\migrations\\202409191324216_mini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\migrations\\202409191328519_minishcoolproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\migrations\\202409191328519_minishcoolproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\views\\assignments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\assignments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\minischool\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "MiniSchool\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Content\\bootstrap.css",
+              "RelativeToolTip": "MiniSchool\\Content\\bootstrap.css",
+              "ViewState": "AQIAAH8OAAAAAAAAAAAqwDsOAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-21T09:01:35.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Content\\bootstrap.rtl.min.css",
+              "RelativeDocumentMoniker": "MiniSchool\\Content\\bootstrap.rtl.min.css",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Content\\bootstrap.rtl.min.css",
+              "RelativeToolTip": "MiniSchool\\Content\\bootstrap.rtl.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-21T09:01:31.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Content\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "MiniSchool\\Content\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Content\\bootstrap.min.css",
+              "RelativeToolTip": "MiniSchool\\Content\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-21T09:01:28.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T08:54:09.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T08:54:08.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T08:54:03.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Models\\User.cs",
+              "RelativeToolTip": "MiniSchool\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:43:37.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MiniSchool\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:43:02.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Content\\Site.css",
+              "RelativeDocumentMoniker": "MiniSchool\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Content\\Site.css",
+              "RelativeToolTip": "MiniSchool\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-21T08:39:07.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T08:38:42.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Assignments\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Assignments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Assignments\\Create.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Assignments\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T08:31:35.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "202409191334532_userTable.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\202409191334532_userTable.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Migrations\\202409191334532_userTable.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\202409191334532_userTable.cs",
+              "RelativeToolTip": "MiniSchool\\Migrations\\202409191334532_userTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:19:26.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "202409191328519_MiniShcoolproj.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\202409191328519_MiniShcoolproj.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Migrations\\202409191328519_MiniShcoolproj.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\202409191328519_MiniShcoolproj.cs",
+              "RelativeToolTip": "MiniSchool\\Migrations\\202409191328519_MiniShcoolproj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:19:25.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T07:26:32.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T07:26:31.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Assignments\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Assignments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Assignments\\Index.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Assignments\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAMBdwBYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T17:00:06.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\MiniShcool\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\MiniShcool\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\MiniShcool\\Index.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\MiniShcool\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T07:08:42.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAABRwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T13:44:48.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Web.config",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Views\\Web.config",
+              "RelativeToolTip": "MiniSchool\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-21T07:07:03.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MiniSchool\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:06:21.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "202409191338486_seeds.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\202409191338486_seeds.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Migrations\\202409191338486_seeds.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\202409191338486_seeds.cs",
+              "RelativeToolTip": "MiniSchool\\Migrations\\202409191338486_seeds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:06:20.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "202409191335438_userTable1.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\202409191335438_userTable1.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Migrations\\202409191335438_userTable1.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\202409191335438_userTable1.cs",
+              "RelativeToolTip": "MiniSchool\\Migrations\\202409191335438_userTable1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:06:19.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "202409191327173_minischool.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\202409191327173_minischool.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Migrations\\202409191327173_minischool.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\202409191327173_minischool.cs",
+              "RelativeToolTip": "MiniSchool\\Migrations\\202409191327173_minischool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:27:21.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "202409191324216_mini.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\202409191324216_mini.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Migrations\\202409191324216_mini.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Migrations\\202409191324216_mini.cs",
+              "RelativeToolTip": "MiniSchool\\Migrations\\202409191324216_mini.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:24:25.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Web.config",
+              "RelativeDocumentMoniker": "MiniSchool\\Web.config",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Mvcexplain\\Task-mvc\\Mvc-Task\\MiniSchool\\MiniSchool\\Web.config",
+              "RelativeToolTip": "MiniSchool\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-21T07:05:30.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+﻿@model MiniSchool.Models.Subject
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="container">
+    <h2>Delete Subject</h2>
+
+    <div class="confirmation-table">
+        <h4>Are you sure you want to delete this subject?</h4>
+        <hr />
+        <div class="table">
+            <div class="table-row">
+                <div class="table-cell header">Name</div>
+                <div class="table-cell">@Html.DisplayFor(model => model.Name)</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="action-buttons">
+        <button id="deleteButton" class="btn btn-danger">Delete</button>
+        @Html.ActionLink("Back to List", "Index", new { area = "" }, new { @class = "btn btn-secondary" })
+    </div>
+</div>
+
+@section scripts {
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        document.getElementById('deleteButton').addEventListener('click', function (event) {
+            event.preventDefault();
+
+            Swal.fire({
+                title: 'Are you sure?',
+                text: "This action cannot be undone!",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonColor: '#3085d6',
+                cancelButtonColor: '#d33',
+                confirmButtonText: 'Yes, delete it!'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    // If confirmed, submit the form
+                    document.getElementById('deleteForm').submit();
+                }
+            });
+        });
+    </script>
+}
+
+@using (Html.BeginForm("Delete", "Subjects", FormMethod.Post, new { id = "deleteForm" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(model => model.Id)
+}
+<style>
+    body {
+        font-family: 'lato', sans-serif;
+    }
+
+    .container {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 10px;
+    }
+
+    h2 {
+        font-size: 26px;
+        margin: 20px 0;
+        text-align: center;
+    }
+
+    .confirmation-table {
+        background-color: #ffffff;
+        box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.1);
+        border-radius: 3px;
+        padding: 25px;
+        margin-bottom: 25px;
+    }
+
+    .table {
+        display: table;
+        width: 100%;
+    }
+
+    .table-row {
+        display: table-row;
+    }
+
+    .table-cell {
+        display: table-cell;
+        padding: 10px;
+        border-bottom: 1px solid #ddd;
+    }
+
+        .table-cell.header {
+            font-weight: bold;
+            background-color: #f9f9f9;
+        }
+
+    .action-buttons {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+        color: #ffffff;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        color: #ffffff;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+        }
+</style>
